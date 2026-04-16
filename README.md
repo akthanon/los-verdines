@@ -4,11 +4,11 @@ Grupo Binarie
 
 ## 👥 Colaboradores
 
-- **Oscar Epson**  
-  [AzurewrathTIME/CODIGO_MATRIZ](https://github.com/AzurewrathTIME/CODIGO_MATRIZ)
+- **Time**  
+  [AzurewrathTIME/CODIGO_MATRIZ](https://github.com/AzurewrathTIME/)
 
-- **Kenia Cazarez**  
-  [kenia-hub12/mi_evidencia](https://github.com/kenia-hub12/mi_evidencia)
+- **Loquesea**  
+  [kenia-hub12/mi_evidencia](https://github.com/kenia-hub12/)
 
-- **Helen Cecilia**  
-  [r3en/putooscar](https://github.com/r3en/putooscar)
+- **Hecilia**  
+  [r3en/putooscar](https://github.com/r3en/)
